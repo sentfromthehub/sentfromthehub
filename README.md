@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I'm currently working on Shiny apps<br>🌱 I'm currently learning unsupervised learning in R<br> 💬 Ask me about R and I'll tidy up your data, your code, and maybe even your life <br>⚡I can speed-read at up to 700 WPM and type up to a rate of up to 100 WPM!<br><br>
+ 🔭 I'm currently working on a Shiny app<br>🌱 I'm currently learning unsupervised learning in R<br> 💬 Ask me about R and I'll tidy up your data, your code, and maybe even your life <br>⚡I can speed-read at up to 700 WPM and type up to a rate of up to 100 WPM!<br><br>
 
 
 # 💻 Tech Stack:
